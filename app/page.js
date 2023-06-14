@@ -17,8 +17,9 @@ const Page = () => (
     </div>
     <div className='relative'>
       <World />
-      <div className='x' />
+      <div className='gradient-04 z-0' />
       <Insights />
+      <div className='gradient-05 z-0' />
     </div>
     <Feedback />
     <Footer />

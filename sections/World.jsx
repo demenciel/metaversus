@@ -37,6 +37,8 @@ const World = () => (
       </div>
       <div className='absolute top-1/2 left-[16%] w-[140px] h-[100px] p-[8px] rounded-[10px] bg-[#5d6680] opacity-85'>
         <img src="map-element-2.png" alt="people" className='z-5 w-full h-full rounded-[10px]'/>
+        <div className='gradient-03 relative z-10'>
+        </div>
       </div>
       
     </motion.div>
